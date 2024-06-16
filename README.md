@@ -1,1 +1,1 @@
-# LandinPage
+# LandingPage
